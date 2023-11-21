@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Universities">
+        <item>Chuka</item>
+        <item>Mtkenya</item>
+        <item>Kirinyaga</item>
+        <item>Embu</item>
+        <item>Nairobi</item>
+        <item>Kenyatta</item>
+        <item>Maseno</item>
+         <item>Laikipia</item>
+        <item>Chuka</item>
+        <item>Mtkenya</item>
+        <item>Kirinyaga</item>
+        <item>Embu</item>
+        <item>Nairobi</item>
+        <item>Kenyatta</item>
+        <item>Maseno</item>
+        <item>Laikipia</item>
+
+    </string-array>
+</resources>
